@@ -75,7 +75,7 @@ const MediasFooter = () => {
       <ul>
         <li>
           <a href="https://github.com/raida42" target="_blank">
-            <i class="fab fa-github" aria-hidden="true" 
+            <i className="fab fa-github" aria-hidden="true" 
             style={{display: 'flex', justifyContent: 'center', alignItems: 'center'}}
             >
               <Image src="/images/github_icon.png" w="24px" h="24px" />
@@ -84,7 +84,7 @@ const MediasFooter = () => {
         </li>
         <li>
           <a href="https://twitter.com/Raida042" target="_blank">
-            <i class="fab fa-twitter" aria-hidden="true"
+            <i className="fab fa-twitter" aria-hidden="true"
             style={{display: 'flex', justifyContent: 'center', alignItems: 'center'}}
             >
               <Image src="/images/twitter_icon.png" w="24px" h="24px" />
@@ -93,7 +93,7 @@ const MediasFooter = () => {
         </li>
         <li>
           <a href="https://www.linkedin.com/in/ryusuke-aida-768950232/" target="_blank">
-            <i class="fab fa-linkedin" aria-hidden="true"
+            <i className="fab fa-linkedin" aria-hidden="true"
             style={{display: 'flex', justifyContent: 'center', alignItems: 'center'}}
             >
               <Image src="/images/linkedin_icon.png" w="26px"h="26px" />
@@ -102,7 +102,7 @@ const MediasFooter = () => {
         </li>
         <li>
           <a href="https://open.spotify.com/show/76EmlqhHCLgW3gXJyXwnO8?si=e7a922a77f9f4a3a" target="_blank">
-            <i class="fab fa-linkedin" aria-hidden="true"
+            <i className="fab fa-linkedin" aria-hidden="true"
             style={{display: 'flex', justifyContent: 'center', alignItems: 'center'}}
             >
               <Image src="/images/spotify_icon.png" w="26px"h="26px" />
